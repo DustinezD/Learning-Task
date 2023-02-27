@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> LOGIN </title>
+ </head>
+ 
+ <body style="background:blue; text-align:center">
+ <div style="font-family:verdana; font-size:30px; color:white
+             box;
+             position:absolute;
+top:100px;
+
+background:white;
+margin-left:150px;
+margin-right:150px;
+height:auto;
+width:1000px;
+text-align:center">
+     <h1>
+
+<b>LOGIN FORM</b>
+</h1>
+ </br>
+ </br>
+ 
+    <p>Username:   <input type="text"></p>
+<p>Password:   <input type="password"></p>
+<p style="font-size:15px"><input type="checkbox"> Remember me </p>
+<p><button>Login</button></p>
+</div>
